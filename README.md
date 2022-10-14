@@ -1,2 +1,2 @@
 # CultCryptoBot
-https://raw.githubusercontent.com/neonglitch86/vrm/main/
+https://raw.githubusercontent.com/neonglitch86/CultCryptoBot/main/
